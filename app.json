@@ -1,0 +1,18 @@
+{
+  "name": "pcms",
+  "description": "pcms",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
